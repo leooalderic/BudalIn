@@ -37,7 +37,7 @@ export default function Footer() {
                                 className="h-10 w-10 rounded-xl transition-transform group-hover:scale-110"
                             />
                             <span className="text-xl font-extrabold tracking-tight">
-                                Wiri<span className="text-brand-orange">Goo</span>
+                                Budal<span className="text-brand-orange">In</span>
                             </span>
                         </a>
                         <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/50">
@@ -102,7 +102,7 @@ export default function Footer() {
                                     className="inline-flex items-center gap-2 text-white/50 transition-colors hover:text-brand-orange"
                                 >
                                     <Instagram className="h-4 w-4" />
-                                    @wirigoo.official
+                                    @Budalin.official
                                 </a>
                             </li>
                         </ul>
